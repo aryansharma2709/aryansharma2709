@@ -6,6 +6,8 @@ on:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write     # allow commit
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -14,6 +16,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+
+          # 👇 IMPORTANT: commit to main (default 'master' hota hai)
+          committer_branch: main
+          committer_message: "chore: update metrics [skip ci]"
           filename: metrics/metrics.svg
 
           plugins: |
