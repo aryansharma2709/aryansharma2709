@@ -52,12 +52,9 @@ I build production-ready apps with great UX, clean code, and CI/CD.
 <!-- ====== METRICS & WAKATIME (AUTO BY WORKFLOW) ====== -->
 <h3 align="center">🧠 Metrics & WakaTime</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg" alt="resume metrics" />
+  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg?v=4" alt="resume metrics" />
 </p>
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/languages.svg" alt="languages" />
-  <img width="49%" src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/achievements.svg" alt="achievements" />
-</p>
+
 
 <!-- ====== SNAKE (AUTO BY WORKFLOW) ====== -->
 <h3 align="center">🐍 Contribution Snake</h3>
