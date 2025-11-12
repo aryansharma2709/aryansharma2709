@@ -1,31 +1,23 @@
 <!-- ====== TOP WAVE BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,100:00E5FF&text=Namaste%20%F0%9F%91%8B%20I'm%20Aryan%20Sharma&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20(MERN)%20%C2%B7%20Java%20%C2%B7%20AI%20Integrations&descAlign=50&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,100:00E5FF&text=Hey%20%F0%9F%91%8B%20I'm%20Aryan%20Sharma&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20(MERN)%20%C2%B7%20Java%20%C2%B7%20AI%20Integrations&descAlign=50&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- ====== TYPING TAGLINE ====== -->
 <div align="center">
   <a href="https://github.com/aryansharma2709">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=24&duration=2600&pause=700&center=true&vCenter=true&width=1000&lines=Building+AI-powered+web+experiences+that+scale.;MERN+%7C+Java+%7C+Node+%7C+React+%7C+MongoDB.;Clean+Code+%E2%9C%85+%7C+Great+DX+%F0%9F%8C%9F+%7C+Solid+Architecture+%F0%9F%9A%80" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=24&duration=2600&pause=700&center=true&vCenter=true&width=1000&lines=AI-powered+web+experiences+that+scale.;MERN+%7C+Java+%7C+Node+%7C+React+%7C+MongoDB.;Clean+Code+%E2%9C%85+%7C+Great+DX+%F0%9F%8C%9F+%7C+Solid+Architecture+%F0%9F%9A%80" alt="typing" />
   </a>
 </div>
 
 <!-- ====== SOCIALS / RESUME ====== -->
 <p align="center">
   <a href="mailto:aryansharma20047@gmail.com"><img src="https://img.shields.io/badge/Email-aryansharma20047%40gmail.com-1a73e8?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryan-sharma-b132b1144"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Sharma-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aryansharma-b132b1144"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Sharma-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aryansharma2709"><img src="https://img.shields.io/badge/GitHub-aryansharma2709-000000?logo=github" /></a>
   <a href="./resume/Aryan_Sharma_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-16a34a?logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aryansharma2709&style=flat&label=Profile%20Views" />
 </p>
-
-<!-- ====== QUICK GLANCE ====== -->
-<div align="center">
-
-**Full-Stack Developer (MERN) · Java · AI/ML Integrations**  
-I craft production-ready apps with great UX, CI/CD, and measurable impact.
-
-</div>
 
 <!-- ====== SKILLS (ICON CLOUD) ====== -->
 <h3 align="center">⚙️ Tech Stack</h3>
@@ -33,52 +25,40 @@ I craft production-ready apps with great UX, CI/CD, and measurable impact.
   <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,vite,nodejs,express,mongodb,mysql,java,python,git,github,postman,vercel" />
 </p>
 
-<!-- ====== SHOWCASE ====== -->
-<h3 align="center">🚀 Spotlight Projects</h3>
-
+<!-- ====== PROJECT SPOTLIGHT ====== -->
+<h3 align="center">🚀 Spotlight</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AI%20Virtual%20Assistant-MERN%20%7C%20Gemini%20%7C%20Voice-111?logo=openai&labelColor=0f172a" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/StayEase-MERN%20%7C%20JWT%20%7C%20Cloud-111?logo=react&labelColor=0f172a" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/ADAS%20Image%20Dehazing-OpenCV%20%7C%20NumPy-111?logo=python&labelColor=0f172a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI%20Virtual%20Assistant-MERN%20%7C%20Gemini%20%7C%20Voice-111?labelColor=0f172a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/StayEase-MERN%20%7C%20JWT%20%7C%20Cloud-111?labelColor=0f172a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ADAS%20Dehazing-OpenCV%20%7C%20NumPy-111?labelColor=0f172a" /></a>
 </p>
 
-<!-- ====== METRICS GRID (ANIMATED GOODIES) ====== -->
-<h3 align="center">📈 Code Pulse</h3>
-
+<!-- ====== STATS (NO ZERO TROPHIES) ====== -->
+<h3 align="center">📈 GitHub Pulse</h3>
 <p align="center">
-  <!-- GitHub Stats -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryansharma2709&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=aryansharma2709&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansharma2709&hide_border=true&area=true" />
 </p>
 
+<!-- ====== METRICS + WAKATIME (auto from workflow) ====== -->
+<h3 align="center">🧠 Metrics & WakaTime</h3>
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aryansharma2709&theme=flat&no-frame=true&margin-w=10&row=1&column=7" />
+  <!-- This file is created by .github/workflows/metrics.yml -->
+  <img src="./metrics/metrics.svg" alt="metrics" />
 </p>
 
+<!-- ====== SNAKE (auto from workflow) ====== -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
-  <!-- Lowlighter Metrics (auto-generated by workflow below) -->
-  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/metrics/metrics.svg" alt="metrics" />
-</p>
-
-<p align="center">
-  <!-- Snake Animation (auto-generated) -->
+  <!-- This file is published to 'output' branch by snake.yml -->
   <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/output/snake.svg" alt="snake animation" />
 </p>
 
-<!-- ====== CONTACT ====== -->
-<h3 align="center">🤝 Let’s Connect</h3>
-<p align="center">
-  <b>Open to SDE / Full-Stack / AI roles</b><br/>
-  Drop a line — I reply fast ⚡
-</p>
-
-<!-- ====== BOTTOM WAVE ====== -->
+<!-- ====== FOOTER WAVE ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:8A2BE2" />
 </p>
