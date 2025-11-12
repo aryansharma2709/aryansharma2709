@@ -1,4 +1,4 @@
-name: 📊 Resume-Style Metrics
+name: 📊 Resume-Style Metrics (clean)
 on:
   schedule: [{ cron: "0 */6 * * *" }]
   workflow_dispatch:
@@ -11,17 +11,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}          # CLASSIC PAT (read:user, public_repo/repo)
+          token: ${{ secrets.METRICS_TOKEN }}      # CLASSIC PAT (read:user, public_repo/repo)
           user: aryansharma2709
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Asia/Kolkata
           committer_branch: main
-          committer_message: "chore(metrics): update [skip ci]"
+          committer_message: "chore(metrics): update board [skip ci]"
           output_action: commit
-          filename: metrics/metrics.svg
+          filename: metrics/board.svg              # 👈 NEW file name to kill cache
 
-          # ---- Stable plugins only (no red errors) ----
+          # Only stable sections (no red errors)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -30,7 +30,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
 
-          plugin_habits: no          # OFF (causes 'Unexpected error' sometimes)
-          plugin_achievements: no     # OFF per your request (removes error section)
-          plugin_wakatime: no         # OFF per your request (removes 401)
+          plugin_habits: no
+          plugin_achievements: no                  # 👈 OFF
+          plugin_wakatime: no                      # 👈 OFF
 
