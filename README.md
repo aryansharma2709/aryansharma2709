@@ -44,18 +44,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansharma2709&hide_border=true&area=true" />
 </p>
 
-<!-- ====== METRICS + WAKATIME (auto from workflow) ====== -->
-<h3 align="center">🧠 Metrics & WakaTime</h3>
+<!-- Metrics (raw link to main branch) -->
 <p align="center">
-  <!-- This file is created by .github/workflows/metrics.yml -->
-  <img src="./metrics/metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg" alt="metrics"/>
 </p>
 
-<!-- ====== SNAKE (auto from workflow) ====== -->
-<h3 align="center">🐍 Contribution Snake</h3>
+<!-- Snake (raw link to output branch) -->
 <p align="center">
-  <!-- This file is published to 'output' branch by snake.yml -->
-  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/output/snake.svg" alt="snake animation"/>
 </p>
 
 <!-- ====== FOOTER WAVE ====== -->
