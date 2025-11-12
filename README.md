@@ -10,13 +10,19 @@
   </a>
 </div>
 
-<!-- ====== SOCIALS / RESUME ====== -->
+<!-- ====== CONTACT / SOCIALS ====== -->
 <p align="center">
   <a href="mailto:aryansharma20047@gmail.com"><img src="https://img.shields.io/badge/Email-aryansharma20047%40gmail.com-1a73e8?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aryansharma-b132b1144"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Sharma-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aryan-sharma-b132b1144"><img src="https://img.shields.io/badge/LinkedIn-Aryan%20Sharma-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aryansharma2709"><img src="https://img.shields.io/badge/GitHub-aryansharma2709-000000?logo=github" /></a>
   <a href="./resume/Aryan_Sharma_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-16a34a?logo=adobeacrobatreader&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aryansharma2709&style=flat&label=Profile%20Views" />
+</p>
+
+<!-- ====== ABOUT SHORT ====== -->
+<p align="center">
+<b>Full-Stack Developer (MERN) · Java · AI/ML Integrations</b><br/>
+I build production-ready apps with great UX, clean code, and CI/CD.
 </p>
 
 <!-- ====== SKILLS (ICON CLOUD) ====== -->
@@ -33,23 +39,28 @@
   <a href="#"><img src="https://img.shields.io/badge/ADAS%20Dehazing-OpenCV%20%7C%20NumPy-111?labelColor=0f172a" /></a>
 </p>
 
-<!-- ====== STATS (NO ZERO TROPHIES) ====== -->
+<!-- ====== GITHUB STATS (NO ZERO TROPHIES) ====== -->
 <h3 align="center">📈 GitHub Pulse</h3>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aryansharma2709&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=aryansharma2709&hide_border=true&theme=transparent" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansharma2709&hide_border=true&area=true" />
 </p>
 
-<!-- Metrics (raw link to main branch) -->
+<!-- ====== METRICS & WAKATIME (AUTO BY WORKFLOW) ====== -->
+<h3 align="center">🧠 Metrics & WakaTime</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg" alt="metrics"/>
+  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg" alt="resume metrics" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/languages.svg" alt="languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/achievements.svg" alt="achievements" />
 </p>
 
-<!-- Snake (raw link to output branch) -->
+<!-- ====== SNAKE (AUTO BY WORKFLOW) ====== -->
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/output/snake.svg" alt="snake animation"/>
 </p>
@@ -58,3 +69,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:8A2BE2" />
 </p>
+
