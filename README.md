@@ -50,10 +50,11 @@ I build production-ready apps with great UX, clean code, and CI/CD.
 </p>
 
 <!-- ====== METRICS & WAKATIME (AUTO BY WORKFLOW) ====== -->
-<h3 align="center">🧠 Metrics & WakaTime</h3>
+<h3 align="center">🧠 Metrics</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/metrics.svg?v=4" alt="resume metrics" />
+  <img src="https://raw.githubusercontent.com/aryansharma2709/aryansharma2709/main/metrics/board.svg?v=1" alt="metrics board" />
 </p>
+
 
 
 <!-- ====== SNAKE (AUTO BY WORKFLOW) ====== -->
